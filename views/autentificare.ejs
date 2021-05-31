@@ -1,0 +1,41 @@
+<body style="background-color:rgb(227, 248, 227);">
+    <style>
+      .button {
+         background-color: #4CAF50; 
+         border: none;
+         color: white;
+         padding: 15px 32px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+         margin: 4px 2px;
+         cursor: pointer;
+        -webkit-transition-duration: 0.4s; 
+        transition-duration: 0.4s;
+  }
+  .button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  .centered{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+  }
+</style>
+
+    <form action="/verifica-autentificare" method="post">
+    <label class="centered"><h1 style="color: #049b0c;  align-content: center">Utilizator:</h1></label>
+    <input class="centered" type="text"  name="utilizator">
+
+    <label class="centered"><h1 style="color:#049b0c;  align-content: center">Parolă:</h1></label>
+    <input class="centered"type="password" name="parola" >
+
+    </br>
+    </br>
+    </br>
+    <input class="centered button button2" type="submit" value="Autentificare" />
+    </form>
+    
+</body>

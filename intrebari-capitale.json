@@ -1,0 +1,55 @@
+[{
+    "intrebare": "Care este capitala Marocului?",
+    "variante": ["Casablanca", "Tanger","Rabat","Dakhla"] ,
+    "corect": 2
+
+},
+{
+    "intrebare": "Care este capitala Japoniei?",
+    "variante": ["Kyoto", "Tokyo", "Yamashina","Yokohama"],
+    "corect": 1
+
+},
+{
+    "intrebare": " Capitala carui stat este Jakarta?",
+    "variante": ["Vietnam", "Indonezia", "Filipine", "Noua Zeelanda"],
+    "corect": 1
+
+},
+{
+    "intrebare": "Care este capitala Portugaliei?",
+    "variante": ["Lisabona", "Sevilla", "Porto", "Madrid"],
+    "corect": 0
+},
+{
+    "intrebare": "Care este capitala Paraguay-ului?",
+    "variante": ["Corrientes", "Alvez", "Asuncion", "Lima"],
+    "corect": 2
+},
+{
+    "intrebare": "Capitala carui stat este Montevideo?",
+    "variante": ["Paraguay", "Chile", "Peru", "Uruguay"],
+    "corect": 3
+},
+{
+    "intrebare": "Care este capitala Indiei?",
+    "variante": ["New Delhi", "Calcutta", "Panjim", "Mysore"],
+    "corect": 0
+},
+{
+    "intrebare": "Care este capitala Suediei?",
+    "variante": ["Oslo", "Copenhaga", "Stokholm", "Helsinki"],
+    "corect": 2
+},
+{
+    "intrebare": "Care este capitala statului Filipine?",
+    "variante": ["Manila", "Jakarta", "Kuala Lumpur", "Bangkok"],
+    "corect": 0
+},
+{
+    "intrebare": " Capitala carui stat este Antananarivo?",
+    "variante": ["Mozambic", "Botswana", "Togo", "Madagascar"],
+    "corect": 3
+}
+    
+]

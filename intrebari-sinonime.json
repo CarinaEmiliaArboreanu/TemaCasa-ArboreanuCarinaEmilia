@@ -1,0 +1,55 @@
+[{
+    "intrebare": "Care este sinonimul lui indecent?",
+    "variante": ["curajos", "obscen", "antagonic", "furios"],
+    "corect": 1
+
+},
+{
+    "intrebare": "Care este sinonimul lui beatitudine?",
+    "variante": ["fericire deplina", "ghinion", "sansa", "secret"],
+    "corect": 0
+},
+{
+    "intrebare": "Care este sinonimul lui a imputa?",
+    "variante": ["a trimite", "a plange","a reprosa","a anunta"] ,
+    "corect": 2
+
+},
+{
+    "intrebare": "Care este sinonimul lui lapidare?",
+    "variante": ["strangere", "omorare", "strigare","sustragere"],
+    "corect": 1
+
+},
+{
+    "intrebare": "Care este sinonimul lui bojogar?",
+    "variante": ["borfas", "rege", "cocon", "print"],
+    "corect": 0
+},
+{
+    "intrebare": "Care este sinonimul lui a plenui?",
+    "variante": ["a ajuta", "a partaja", "a jefui", "a rani"],
+    "corect": 2
+},
+{
+    "intrebare": "Care este sinonimul lui a abjura?",
+    "variante": ["a injura", "a rade", "a judeca", "a renega"],
+    "corect": 3
+},
+{
+    "intrebare": "Care este sinonimul lui obtuz?",
+    "variante": ["elevat", "fericit", "inapoiat", "scurt"],
+    "corect": 2
+},
+{
+    "intrebare": "Care este sinonimul lui aservit?",
+    "variante": ["sclav", "hamesit", "carmuitor", "rege"],
+    "corect": 0
+},
+{
+    "intrebare": "Care este sinonimul lui mlada?",
+    "variante": ["paraias", "batatura", "copac", "lastaris"],
+    "corect": 3
+}
+    
+]

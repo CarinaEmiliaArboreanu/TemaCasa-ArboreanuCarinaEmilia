@@ -1,0 +1,6 @@
+[
+    {"utilizator":"carina","parola":"carina","nume":"Arboreanu","prenume":"Carina","admin":"0"},
+    {"utilizator":"paul","parola":"paul","nume":"Dura","prenume":"Paul","admin":"0"},
+    {"utilizator":"geo","parola":"geo","nume":"Marcu","prenume":"Georgiana","admin":"0"},
+    {"utilizator":"admin","parola":"asdf","admin":"1"}
+]

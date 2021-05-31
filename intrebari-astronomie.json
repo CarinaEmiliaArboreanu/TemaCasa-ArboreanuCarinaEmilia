@@ -1,0 +1,55 @@
+[{
+    "intrebare": "Ce este un an-lumina?",
+    "variante": [" Timpul in care ajunge lumina de la Soare la Pamant", " Distanta pana la Soare"," Distanta parcursa de lumina intr-un an"," Perioada de revolutie a Lunii"] ,
+    "corect": 2
+
+},
+{
+    "intrebare": " Care este viteza lunimii in vid?",
+    "variante": [" 123.000 m/s", " 300.000.000 m/s", " 300.000 m/s"," 1.000.000 m/s"],
+    "corect": 1
+
+},
+{
+    "intrebare": "Ce este o unitate astronomica?",
+    "variante": ["Timpul in care lumina ajunge de la Soare la Pamant", "Distanta de la Pamant la Soare", " Distanta de la Pamant la Luna", " Distanta de la Iasi la Timisoara"],
+    "corect": 1
+
+},
+{
+    "intrebare": "Cum se numeste galaxia noastra?",
+    "variante": [" Calea Lactee", " Andromeda", " MX 235", "Elipteea"],
+    "corect": 0
+},
+{
+    "intrebare": "Ce forma are galaxia noastra?",
+    "variante": ["cubica", "de farfurie", "disc", "liniara"],
+    "corect": 2
+},
+{
+    "intrebare": "Care e ste diametrul maxim al galaxiei noastre?",
+    "variante": [" 10.000 ani lumina", " 150.000 ani lumina", " 12.600 ani lumina", "200.000 ani lumina"],
+    "corect": 3
+},
+{
+    "intrebare": "Care este obiectul cosmic cu cea mai mare forta gravitationala?",
+    "variante": ["Gaura Neagra", "Stea neutronica", "Planeta gazoasa", "Praful cosmic"],
+    "corect": 0
+},
+{
+    "intrebare": "Care este forta care guverneaza miscarea obiectelor cosmice?",
+    "variante": [" Forta nucleara slaba", " Forta nucleara tare", "Gravitatia", " Forta electica"],
+    "corect": 2
+},
+{
+    "intrebare": "Care sunt elementele predominante in stelele de tipul Soarelui?",
+    "variante": ["Hidrogenul si heliul", " Fierul si azotul", "Carbonul si oxigenul", "Fierul si cuprul"],
+    "corect": 0
+},
+{
+    "intrebare": " Ce semnifica deplasarea spre rosu a luminii primite de la galaxiile vecine?",
+    "variante": ["Incalzirea galaxiilor", "Racirea galaxiilor", "Miscarea de rotatie a galaxiilor", "Indepartarea galaxiilor"],
+    "corect": 3
+}
+    
+]
